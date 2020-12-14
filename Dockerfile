@@ -1,3 +1,4 @@
+#!/bin/bash
 FROM node:12
 
 COPY package*.json ./
